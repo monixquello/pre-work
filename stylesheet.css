@@ -1,0 +1,49 @@
+.title {
+    color: maroon solid;
+    font-size: 80px;
+    padding-bottom: 30px;
+}
+  h1 {
+    color: burlywood;
+    border: 1px solid;
+    height: 90px;
+    text-align: center;
+
+  }
+  h2 {
+    color:aqua;
+    font-size: 40px;
+  }
+ 
+  li {
+    list-style: none;
+  }
+ .header-list li {
+    float: right;
+    padding: 20px 20px;
+    background-color: aquamarine;
+    
+ }
+ .header-logo {
+    float: left;
+    margin: 20px 10px 
+ }
+    img {
+        width: 150px;
+        height: 100px;
+    }
+    p {
+      font-size-adjust: 50px;
+      color: blue;
+    }
+    body {
+      background-color: beige;
+    }
+    .footer-list {
+    float: right;
+    background-color: aquamarine;
+    }
+    .footer-list li {
+      padding-bottom: 10px;
+    }
+    
