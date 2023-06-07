@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="stylesheet.css">
+  <meta charset="utf-8">
+  <title>Progate</title>
+</head>
+<body>
+  <div class="header">
+    <div class="header-logo">
+      <img src="assets/refactory logo.png">
+    </div>
+    <div class="header-list">
+      <ul>
+        <li>About</li>
+        <li>Lessons</li>
+        <li>Contact us</li>
+      </ul>
+    </div>
+    <h1 class="title">Progate</h1>
+    <h2>Welcome, learn how to code</h2>
+    <h3>Web Development Course</h3>
+    <img src="assets/web image.jpg">
+    <p>Languages.</p>
+    <ul>
+      <li>HTML&CSS</li>
+      <img src="assets/html logo.png">
+      <p>this is html</p>
+      <li>JavaScript</li>
+      <img src="assets/java script.jpg">
+      <li>Node.js</li>
+      <img src="assets/node js.webp">
+      <li>SQL</li>
+      <img src="assets/SQL.webp">
+    </ul>
+    <div class="footer">
+      <div class="header-logo">
+        <img src="assets/refactory logo.png">
+      </div>
+      <div class="footer-list">
+        <ul>
+          <li>Services</li>
+          <li>Support</li>
+          <li>Contact us</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+  <img src="assets/web image.jpg">
+  <p>text before the image.</p>
+  <p>More text after the first image.</p>
+  <p>Even more text after the first image.</p>
+  
+  <img src="assets/html logo.png">
+  <p>Text after the second image.</p>
+  <p>More text after the second image.</p>
+  <p>Even more text after the second image.</p>
+  
+  <img src="assets/java script.jpg">
+  <p>Text after the third image.</p>
+  <p>More text after the third image.</p>
+  <p>Even more text after the third image.</p>
+  
+  <img src="assets/node js.webp">
+  <p>Text after the fourth image.</p>
+  <p>More text after the fourth image.</p>
+  <p>Even more text after the fourth image.</p>
+  
+  <img src="assets/SQL.webp">
+  <p>Text after the fifth image.</p>
+  <p>More text after the fifth image.</p>
+  <p>Even more text after the fifth image.</p>
+  
+</body>
+</html>
