@@ -34,7 +34,8 @@
     }
     p {
       font-size-adjust: 50px;
-      color: blue;
+      color: purple;
+      text-overflow: inherit;
     }
     body {
       background-color: beige;
@@ -45,5 +46,28 @@
     }
     .footer-list li {
       padding-bottom: 10px;
+      margin-right: 20px;
     }
-    
+    .footer {
+        background-color: #f2f2f2;
+       
+        text-align: center;
+      }
+
+      .footer p {
+        font-size: 14px;
+        color: #888;
+        margin: 0;
+      }
+
+      .logo {
+        text-align: center;
+        margin-top: 20px;
+      }
+        .form-section {
+          flex: 1;
+          margin-left: 20px;
+        }
+      .contentx{
+float: left;
+      }
