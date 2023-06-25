@@ -1,6 +1,6 @@
 /* Reset default margin and padding for all elements */
 * {
-  margin: 0;
+  margin: 5px;
   padding: 2px;
   box-sizing: border-box;
 }
@@ -107,21 +107,22 @@
 }
 
 .form label {
+  padding: 20px;
   display: block;
-  margin-bottom: 5px;
+  margin-bottom: 20px;
 }
 
 .form input,
 .form textarea {
-  width: 20%;
-  padding: 5px;
-  margin-bottom: 10px;
+  width: 10%;
+  padding: 0px;
+  margin-bottom: 30px;
 }
 
 .form button {
   background-color: #4CAF50;
   color: #fff;
-  padding: 10px 20px;
+  padding: 50px 50px;
   border: none;
   cursor: pointer;
   
@@ -158,4 +159,6 @@
   margin-bottom: 10px;
   Float: left;
 }
-
+.lf{
+  float:left;
+}
